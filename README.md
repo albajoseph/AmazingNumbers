@@ -34,7 +34,7 @@ Compile and run the application:
    javac numbers/Main.java
    java numbers.Main
    ```
-###🎮 Example Requests
+## 🎮 Example Requests
 
 | Request | Description |
 | :--- | :--- |
